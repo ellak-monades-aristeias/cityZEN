@@ -1,5 +1,5 @@
-> Copyright (c) 2015 Kalliopi Savvaki
-> Copyright (c) 2015 Georgios Kiagiadakis
+Copyright (c) 2015 Kalliopi Savvaki  
+Copyright (c) 2015 Georgios Kiagiadakis
 
 ---
 
