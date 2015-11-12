@@ -133,27 +133,55 @@
 ## Πλοήγηση στο repository
 
 - bench/ | φάκελος με τα σχέδια που αφορούν το έπιπλο-πάγκο
+ - 3d model/
+     - Φωτορεαλιστική απεικόνιση | εικόνες του αντικειμένου από διάφορες οπτικές
+     - finalbench3dmodel.3dm     | το τελικό 3d model
+     - render.bip                | keyshot file από το οποίο παράχθηκαν τα render
+ - Files for 3d print/
+     - Σφυχτήρας συρματόσχοινου.{3dm,stl} | αρχείο για 3d εκτύπωση πλαστικών κομματιών
+                                            που συγκρατούν το συρματόσχοινο
+ - Files for lasercut/
+     - Bench desk.{ai,svg,pdf,dwg} | αρχεία για την κοπή του ξύλου του πάγκου
+     - Box for electronics.{ai,svg,pdf,dwg}  | αρχεία κοπής των μερών του κουτιού
+                                               για τα ηλεκτρονικά
+     - File for the drawers.{ai,svg,pdf,dwg} | αρχεία κοπής των ραφιών
+     - Metal plate lasercut_label_keyboard   | αρχείο κοπής μεταλλικής πινακίδας
+                                               καθώς και του πληκτρολογίου
+  - Πληκτρολόγιο μεμβράνης/
+     - Πληκτρολόγιο μεμβράνης.{ai,pdf,svg}   | πρόταση κατασκευής πληκτρολογίου μεμβράνης
+  - read me.odt      | πληροφορίες για τα υλικά και τη συντήρηση της κατασκευής
+  - Οδηγίες κατασκευής.{ai,svg,pdf}  | φύλλο οδηγιών κατασκευής ενός πρωτοτύπου
 - cash register/ | φάκελος με τα σχέδια που αφορούν την ηλεκτρονική ταμιακή μηχανή
- - electronics.fzz | διάγραμα καλωδιόσεων και PCB
+ - electronics.fzz         | διάγραμα καλωδιόσεων και PCB
  - documentation.{odt,pdf} | τεκμηρίωση/σημειώσεις για το σχέδιο των ηλεκτρονικών
- - arduino_src/ | φάκελος με κώδικα για τον microcontroller του σχεδίου
+ - arduino_src/            | φάκελος με κώδικα για τον microcontroller του σχεδίου
      - cityzen_cash_register/cityzen_cash_register.ino | proof-of-concept κώδικας
 - service/ | φάκελος με τα σχέδια της υπηρεσίας (storyboard, web service wireframes, κλπ)
  - web service screens.{ai,svg,pdf} | Wireframes του web service
- - storyboard greek.{ai,svg} | Το storyboard της υπηρεσίας
+ - storyboard greek.{ai,svg}        | Το storyboard της υπηρεσίας
+ - cashier screens.{ai,pdf,svg}}    | σχεδίαση οθονών της ταμειακής μηχανής
+ - read me.odt                      | περιγραφή συμπεριφοράς συστήματος και παροχής υπηρείας
+- cost estimation.fods               | υπολογισμός κόστους υλοποίησης
+- Ταυτότητα συστήματος{.pdf,-01.png} | αφίσα ταυτότητας συστήματος
+- LICENSE                            | άδεια χρήσης
+- README                             | το παρών έγγραφο
 
 ## File formats
 
-- .fzz | αρχείο του Fritzing (open software, open format) <http://fritzing.org>
-- .3dm | αρχείο του Rhino3D (closed software, open format) <http://www.rhino3d.com/opennurbs>
+- .fzz  | αρχείο του Fritzing (open software, open format) <http://fritzing.org>
+- .3dm  | αρχείο του Rhino3D (closed software, open format) <http://www.rhino3d.com/opennurbs>
  - μπορεί να ανοιχτεί με το Blender <https://www.blender.org/>
-- .ai  | αρχείο Adobe Illustrator (closed software, closed format), PDF compatible
+- .ai   | αρχείο Adobe Illustrator (closed software, closed format), PDF compatible
  - ανοίγει με Inkscape καθώς και οποιονδήποτε PDF Viewer
-- .svg | Scalable Vector Graphics (open format)
+- .svg  | Scalable Vector Graphics (open format)
  - ανοίγει με Inkscape
-- .odt | Open Document Text (open format)
+- .odt  | Open Document Text (open format)
  - ανοίγει με LibreOffice
-- .ino | Arduino IDE project source code (plain text)
+- .fodt | Flat Open Document Text (open format)
+ - ανοίγει με LibreOffice
+- .fods | Flat Open Document Spreadsheet (open format)
+ - ανοίγει με LibreOffice
+- .ino  | Arduino IDE project source code (plain text)
 
 ## Issues
 
