@@ -182,6 +182,11 @@
 - .fods | Flat Open Document Spreadsheet (open format)
  - ανοίγει με LibreOffice
 - .ino  | Arduino IDE project source code (plain text)
+- 
+
+## Σε ποίους απευθύνεται - Κοινότητες Χρηστών - Προγραμματιστών(Developers) ##
+...εδώ περιγράφετε τους δυνητικούς τελικούς χρήστες του έργου σας και τις κοινότητες χρηστών/developers που θα ενδιαφερόντουσαν να επεκτείνουν το έργο σας. ...
+
 
 ## Issues
 
