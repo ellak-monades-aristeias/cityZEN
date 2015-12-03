@@ -162,7 +162,7 @@ The envisioned benefits are multifaceted, for the unemployed this service can he
   - read me.odt      | πληροφορίες για τα υλικά και τη συντήρηση της κατασκευής
   - Οδηγίες κατασκευής.{ai,svg,pdf}  | φύλλο οδηγιών κατασκευής ενός πρωτοτύπου
 - cash register/ | φάκελος με τα σχέδια που αφορούν την ηλεκτρονική ταμιακή μηχανή
- - electronics.fzz         | διάγραμα καλωδιόσεων και PCB
+ - electronics.fzz         | διάγραμμα καλωδιώσεων και PCB
  - documentation.{odt,pdf} | τεκμηρίωση/σημειώσεις για το σχέδιο των ηλεκτρονικών
  - arduino_src/            | φάκελος με κώδικα για τον microcontroller του σχεδίου
      - cityzen_cash_register/cityzen_cash_register.ino | proof-of-concept κώδικας
