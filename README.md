@@ -174,7 +174,7 @@ The envisioned benefits are multifaceted, for the unemployed this service can he
 - cost estimation.fods               | υπολογισμός κόστους υλοποίησης
 - Ταυτότητα συστήματος{.pdf,-01.png} | αφίσα ταυτότητας συστήματος
 - LICENSE                            | άδεια χρήσης
-- README                             | το παρών έγγραφο
+- README                             | το παρόν έγγραφο
 
 ## File formats
 
