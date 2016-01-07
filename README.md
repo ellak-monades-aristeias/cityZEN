@@ -1,14 +1,14 @@
 # cityZEN
 
-##Idea description
+## Idea description
 
-It's quite common to encounter hawkers on the streets merchandising hand crafted objects, such us jewellery, vases, paintings etc. Using their craftsmanship skills is often a way for unemployed people with little if any income to increase their earnings. Unfortunately this activity is considered illegal and the legalisation of it requires complex bureaucratic processes and fees making it inaccessible for them.
+It's quite common to encounter hawkers on the streets, merchandising hand crafted objects, such us jewellery, vases or paintings. Using their craftsmanship skills is often a way for unemployed people with little if any income to increase their earnings. Unfortunately this activity is considered illegal and the legalisation surrounding it requires complex bureaucratic processes and fees, making it essentially inaccessible for them.
 
-These legislations do not considered the abovementioned target group but rather limit any type of merchandising in fear of extensive profiteering from cunning. The unfair competition between the pedlers and shop owners, The unregistered earnings of the pedlers, as well as the distortion of the cityscapes are amongst others the main reasons that increase the complexity of the merchandisation.
+The legislators do not consider the aforementioned target group to be desirable, but they rather try to eliminate any such type of merchandising in fear of extensive profiteering from mischievous behaviour. The unfair competition between the pedlars and shop owners, the unregistered earnings of the pedlars, as well as the distortion of the cityscapes are, amongst others, the main reasons which increase the complexity of this way of merchandising. Identifying this gap sparked the idea for the creation of a system that allows unemployed people with craftsmanship skills to reach the market easily, in a way that can benefit both the merchants and the municipality. 
 
-Identifying this gap sparked the idea for the creation of a system that allows unemployed people with craftsmanship skills to reach the market easily in a way that can benefit both the merchants and the municipality. The proposed system consists of a municipal service responsible for all legal, space, technical and curating issues such as the management of the beneficiaries of the service and the setting up of the stalls as well as the design of a versatile bench to unify the aesthetics and enable the beneficiers to showcase their products.
+CityZEN proposes, on the one hand, a municipal service responsible for all legal, space, technical and curating issues, including the management of the merchants who use the service and the setting up the stalls. On the other hand, this project proposes a design of a versatile bench to unify the aesthetics and enable the beneficiaries to showcase their products.
 
-The envisioned benefits are multifaceted, for the unemployed this service can help not only for increasing their income but also for considering alternative careers. It is important to mention that the service stops being provided for hawkers with high earnings but rather supports them to grow as merchants. At the same time the municipalities identity is branded and the aesthetics of the cityscapes are improved and illegal merchandising can be better controlled.
+The envisioned benefits are multifaceted: For the unemployed this service can help not only to increase their income but also to consider alternative careers. It is important to mention that the service is not intended to be provided for hawkers with high earnings but rather as an initial support for them to grow out of illegality and transform into established merchants. At the same time, the municipalities' identity is branded, the aesthetics of the cityscapes are improved and illegal merchandising can be better controlled.
 
 ## Η ιδέα
 
